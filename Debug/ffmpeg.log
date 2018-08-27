@@ -1,0 +1,38 @@
+﻿  复制了 1 个文件
+  复制了 1 个文件
+  MediaState.cpp
+g:\dev\ffmpeg\isdl\ffmpeg\src\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+g:\dev\ffmpeg\isdl\ffmpeg\src\mediastate.cpp(13): warning C4018: “>”: 有符号/无符号不匹配
+g:\dev\ffmpeg\isdl\ffmpeg\src\mediastate.cpp(52): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+g:\dev\ffmpeg\isdl\ffmpeg\src\mediastate.cpp(105): warning C4996: 'avcodec_register_all': 被声明为已否决
+  g:\dev\ffmpeg\isdl\ffmpeg\src\libavcodec\avcodec.h(4086): note: 参见“avcodec_register_all”的声明
+g:\dev\ffmpeg\isdl\ffmpeg\src\mediastate.cpp(106): warning C4996: 'av_register_all': 被声明为已否决
+  g:\dev\ffmpeg\isdl\ffmpeg\src\libavformat\avformat.h(2025): note: 参见“av_register_all”的声明
+g:\dev\ffmpeg\isdl\ffmpeg\src\mediastate.cpp(249): warning C4018: “>=”: 有符号/无符号不匹配
+g:\dev\ffmpeg\isdl\ffmpeg\src\mediastate.cpp(804): warning C4018: “>=”: 有符号/无符号不匹配
+g:\dev\ffmpeg\isdl\ffmpeg\src\mediastate.cpp(926): warning C4018: “>=”: 有符号/无符号不匹配
+g:\dev\ffmpeg\isdl\ffmpeg\src\mediastate.cpp(1029): warning C4996: 'avpicture_get_size': 被声明为已否决
+  g:\dev\ffmpeg\isdl\ffmpeg\src\libavcodec\avcodec.h(5434): note: 参见“avpicture_get_size”的声明
+g:\dev\ffmpeg\isdl\ffmpeg\src\mediastate.cpp(1032): warning C4996: 'avpicture_fill': 被声明为已否决
+  g:\dev\ffmpeg\isdl\ffmpeg\src\libavcodec\avcodec.h(5419): note: 参见“avpicture_fill”的声明
+g:\dev\ffmpeg\isdl\ffmpeg\src\mediastate.cpp(1097): warning C4244: “初始化”: 从“int64_t”转换到“int”，可能丢失数据
+g:\dev\ffmpeg\isdl\ffmpeg\src\mediastate.cpp(1232): warning C4018: “<”: 有符号/无符号不匹配
+g:\dev\ffmpeg\isdl\ffmpeg\src\mediastate.cpp(1646): warning C4244: “参数”: 从“int64_t”转换到“unsigned int”，可能丢失数据
+g:\dev\ffmpeg\isdl\ffmpeg\src\mediastate.cpp(1741): warning C4018: “<”: 有符号/无符号不匹配
+g:\dev\ffmpeg\isdl\ffmpeg\src\mediastate.cpp(1744): warning C4101: “pitch”: 未引用的局部变量
+g:\dev\ffmpeg\isdl\ffmpeg\src\mediastate.cpp(1743): warning C4101: “pixels”: 未引用的局部变量
+g:\dev\ffmpeg\isdl\ffmpeg\src\mediastate.cpp(1744): warning C4101: “j”: 未引用的局部变量
+g:\dev\ffmpeg\isdl\ffmpeg\src\mediastate.cpp(1802): warning C4018: “<”: 有符号/无符号不匹配
+g:\dev\ffmpeg\isdl\ffmpeg\src\mediastate.cpp(1785): warning C4101: “rect”: 未引用的局部变量
+g:\dev\ffmpeg\isdl\ffmpeg\src\mediastate.cpp(2057): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  正在编译...
+  PacketQueue.cpp
+g:\dev\ffmpeg\isdl\ffmpeg\src\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  IFFmpeg.cpp
+g:\dev\ffmpeg\isdl\ffmpeg\src\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+  ffmpeg.vcxproj -> G:\Dev\FFmpeg\ISDL\ffmpeg\Debug\ffmpeg.dll
+  ffmpeg.vcxproj -> Debug\ffmpeg.pdb (Full PDB)
+  复制了 1 个文件
+  复制了 1 个文件
